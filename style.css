@@ -1,0 +1,13 @@
+* {
+    font-family: Space Grotesk;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.logo {
+    display: block;
+    margin-left: center;
+    margin-right: center;
+    width: 50%;
+}
